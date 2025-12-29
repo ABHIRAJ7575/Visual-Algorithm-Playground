@@ -1,10 +1,10 @@
 # Visual-Algorithm-Playground
 
-## What is this thing? 😂
+## What is this thing? 
 
 So basically, I got tired of staring at my DSA textbook wondering "what the hell is Bubble Sort actually doing?" and decided to make colorful bars dance on my screen instead. Much better use of time, if you ask me.
 
-This is a fully functional algorithm visualizer that'll show you how sorting, searching, and pathfinding algorithms work. And yes, before you ask - Claude helped me build this. I'm not ashamed. We live in 2025, people. If you're still manually writing nested for-loops without AI assistance, I respect the hustle but also... why? 😅
+This is a fully functional algorithm visualizer that'll show you how sorting, searching, and pathfinding algorithms work. And yes, before you ask - Claude helped me build this. I'm not ashamed. We live in 2025, people. If you're still manually writing nested for-loops without AI assistance, I respect the hustle but also... why? 
 
 ## Features (that actually work, surprisingly)
 
@@ -23,7 +23,7 @@ This is a fully functional algorithm visualizer that'll show you how sorting, se
 - BFS (Breadth-First Search - the completionist)
 - DFS (Depth-First Search - the rebel who doesn't guarantee shortest path)
 
-You can draw walls with your mouse like you're playing Paint but for nerds. 🤣
+You can draw walls with your mouse like you're playing Paint but for nerds. 😒
 
 ## Why did I build this?
 
@@ -53,7 +53,7 @@ Also, turns out visualizing algorithms is way more fun than memorizing their tim
 
 Pro tip: The speed slider exists. Use it. Some algorithms are painfully slow and you don't have all day.
 
-## Things I learned while building this 😅
+## Things I learned while building this 🥱
 
 - Async/await is both a blessing and a curse
 - CSS transitions can make literally anything look professional
@@ -77,7 +77,7 @@ Sure, why not? If you want to add more algorithms or fix my questionable code de
 
 - Add more sorting algorithms (Heap Sort, Radix Sort, whatever else exists)
 - Implement A* pathfinding (if I ever understand it)
-- Add sound effects (imagine bubble sort with pop sounds 🤣)
+- Add sound effects (imagine bubble sort with pop sounds 😁)
 - Make it mobile-friendly
 - Actually learn algorithms properly instead of just visualizing them
 
@@ -91,7 +91,7 @@ Sure, why not? If you want to add more algorithms or fix my questionable code de
 
 ## License
 
-MIT License - Do whatever you want with this code. Copy it, modify it, use it for your interviews, pretend you built it from scratch, I don't care. Just don't blame me if your code breaks in production. 😂
+MIT License - Do whatever you want with this code. Copy it, modify it, use it for your interviews, pretend you built it from scratch, I don't care. Just don't blame me if your code breaks in production. 
 
 ## Final Words
 
