@@ -5,8 +5,10 @@
 So basically, I got tired of staring at my DSA textbook wondering "what the hell is Bubble Sort actually doing?" and decided to make colorful bars dance on my screen instead. Much better use of time, if you ask me.
 
 This is a fully functional algorithm visualizer that'll show you how sorting, searching, and pathfinding algorithms work. And yes, before you ask - Claude helped me build this. I'm not ashamed. We live in 2025, people. If you're still manually writing nested for-loops without AI assistance, I respect the hustle but also... why? 
-
-## Features (that actually work, surprisingly)
+---
+### Demo: (https://abhiraj7575.github.io/Visual-Algorithm-Playground/)
+---
+## Features (that actually work, surprisingly 🤷‍♂️)
 
 **Sorting Algorithms** - Watch bars go brrr
 - Bubble Sort (the one everyone learns first and never uses)
